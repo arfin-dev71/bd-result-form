@@ -1,0 +1,58 @@
+body {
+  background-color: #f8f8f8 !important;
+}
+.container {
+  margin-top: 15px;
+}
+.bd-color {
+  background-color: #007814;
+  color: white;
+  padding: 5px 20px;
+  border-radius: 10px;
+}
+.jsc {
+  text-align: center;
+}
+.full-body {
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+}
+.information {
+  width: 670px;
+  /* background-color: darkblue; */
+  margin-left: 150px;
+  padding: 0px 10px 30px;
+  border: 1px solid #dcdcdc;
+  border-radius: 4px;
+}
+
+.result {
+  margin-left: 465px;
+}
+.info{
+  /* text-align: center; */
+}
+.info a{
+  text-decoration: none;
+}
+.info:hover a{
+  color: blue;
+}
+.user-color{
+  color: red;
+}
+.type-color {
+  color: red;
+}
+.dev_info {
+  font-size: 14px;
+  padding: 10px;
+  height: 80px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  color: #333;
+  background-color: #dcdcdc;
+  border-radius: 10px;
+  text-align: end;
+}
